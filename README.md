@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @def1nt
 - 👀 I’m interested in networks and system programming
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Rust game engines
+- 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: @def1nt any social media
 
 <!---
