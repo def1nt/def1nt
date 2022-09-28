@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @def1nt
-- 👀 I’m interested in networks and system programming
+- 👀 I’m interested in system design and automation
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: @def1nt any social media
