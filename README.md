@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @def1nt
 - 👀 I’m interested in system design and automation
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: @def1nt any social media
 
